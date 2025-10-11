@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>🎓 Master's Student @ Zhejiang University | 🔬 AI Researcher | 🎨 MLLM Enthusiast</b>
+  <b>🎓 Master's Student @ University of Warwick | 🔬 AI Researcher | 🎨 MLLM Enthusiast</b>
 </p>
 
 ---
@@ -27,12 +27,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently researching **Multimodal Large Language Models**
-- 🎨 Focusing on **Text-to-Image Generation & Diffusion Models**  
+- 🔭 Currently researching **Multimodal Large Language Models**  
 - 🌱 Learning **Advanced Computer Vision** techniques
-- 🛰️ Exploring **Remote Sensing** applications
+- 🛰️ Exploring **NLP,MLLM** applications
 - 💡 Passionate about **AI for Creative Applications**
-- 📍 Based in **Hangzhou, China**
 - ⚡ Fun fact: **AI + Art = Magic** ✨
 
 <br/>
