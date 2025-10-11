@@ -27,10 +27,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 Currently researching **Multimodal Large Language Models**
-- 🎨 Focusing on **Text-to-Image Generation & Diffusion Models**  
+- 🔭 Currently researching **Multimodal Large Language Models** 
 - 🌱 Learning **Advanced Computer Vision** techniques
-- 🛰️ Exploring **Remote Sensing** applications
+- 🛰️ Exploring **RAG, MLLMs** applications
 - 💡 Passionate about **AI for Creative Applications**
 - 📍 Based in **Coventry, UK** 🇬🇧
 - ⚡ Fun fact: **AI + Art = Magic** ✨
@@ -128,7 +127,7 @@ current_status: "Building intelligent systems that bridge vision and language �
 
 <p align="center">
   <a href="https://github.com/michaelgentsJason"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:jxlau1017@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://space.bilibili.com/你的UID"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
   <a href="你的主页"><img src="https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
   <a href="https://scholar.google.com/你的链接"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
@@ -144,8 +143,3 @@ current_status: "Building intelligent systems that bridge vision and language �
 
 ---
 
-**🌸 "Stay curious, keep learning, build amazing things!"**
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
