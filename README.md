@@ -52,7 +52,7 @@ I am Jiashen Liu, a researcher and engineer working on multimodal AI systems for
 
 ## Publications
 
-- Active Learning-Driven Ensemble Framework for Efficient and Robust Reliability Analysis in Geotechnical Engineering (2025)
+- Active Learning-Driven Ensemble Framework for Efficient and Robust Reliability Analysis in Geotechnical Engineering (2026)
 - FED-FSTQ: Fisher-Guided Token Quantization for Communication-Efficient Federated Fine-Tuning of LLMs on Edge Devices (submitted, 2026)
 - MIKRAG: A Knowledge-Enhanced Multi-Intent Retrieval Framework with Adaptive Multimodal Fusion (under review, 2025)
 
