@@ -1,145 +1,81 @@
-<!-- 
-██╗  ██╗███████╗██╗     ██╗      ██████╗     ████████╗██╗  ██╗███████╗██████╗ ███████╗
-██║  ██║██╔════╝██║     ██║     ██╔═══██╗    ╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝
-███████║█████╗  ██║     ██║     ██║   ██║       ██║   ███████║█████╗  ██████╔╝█████╗  
-██╔══██║██╔══╝  ██║     ██║     ██║   ██║       ██║   ██╔══██║██╔══╝  ██╔══██╗██╔══╝  
-██║  ██║███████╗███████╗███████╗╚██████╔╝       ██║   ██║  ██║███████╗██║  ██║███████╗
-╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝        ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝
--->
+<p align="center">
+  <img src="./assets/avatar.jpg" width="120" alt="Jiashen Liu avatar" />
+</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Jason;AI+Researcher+%7C+ML+Engineer;University+of+Warwick+%F0%9F%8E%93;Building+the+Future+with+AI+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
+<h1 align="center">Jiashen Liu</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=michaelgentsJason&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/michaelgentsJason?label=Followers&style=for-the-badge&color=8b5cf6" alt="followers" />
-  <img src="https://img.shields.io/github/stars/michaelgentsJason?label=Stars&style=for-the-badge&color=a855f7" alt="stars" />
+  MSc in Cyber Security Engineering (Distinction), University of Warwick
+  <br />
+  Multimodal AI · RAG · Intelligent Agents · Document Understanding
 </p>
 
 <p align="center">
-  <b>🎓 Student @ University of Warwick | 🔬 AI Researcher | 🎨 MLLM Enthusiast</b>
+  <a href="https://github.com/michaelgentsJason">
+    <img src="https://img.shields.io/badge/GitHub-michaelgentsJason-181717?logo=github&logoColor=white" alt="GitHub badge" />
+  </a>
+  <a href="mailto:Jiashen.Liu@warwick.ac.uk">
+    <img src="https://img.shields.io/badge/Email-Jiashen.Liu@warwick.ac.uk-D14836?logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Coventry%2C%20UK-0A66C2" alt="Location badge" />
+  <img src="https://img.shields.io/badge/Focus-Multimodal%20AI-1F8B4C" alt="Focus badge" />
 </p>
 
----
+## About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif" />
+I am Jiashen Liu, a researcher and engineer working on multimodal AI systems for knowledge-intensive and high-stakes domains.
 
-### 🧑‍💻 About Me
+- MSc in Cyber Security Engineering with Distinction, University of Warwick
+- Bachelor of Management in Information Management and Information Systems, Nanjing Agricultural University
+- Research interests: multimodal reasoning, retrieval-augmented generation, structured agents, multimodal document understanding, and AI for cybersecurity
+- Interested in building systems that combine vision, language, and structured knowledge for reliable multi-step decision making
 
-- 🔭 Currently researching **Multimodal Large Language Models** 
-- 🌱 Learning **Advanced Computer Vision** techniques
-- 🛰️ Exploring **RAG, MLLMs** applications
-- 💡 Passionate about **AI for Creative Applications**
-- 📍 Based in **Coventry, UK** 🇬🇧
-- ⚡ Fun fact: **AI + Art = Magic** ✨
+## Selected Work
 
-<br/>
+### WebPentestRAG
 
-### 🚀 Research Interests
+- Built a RAG-enhanced framework for automated web application penetration testing
+- Combined structured reasoning, dynamic knowledge retrieval, and workflow orchestration
+- Improved task performance over baseline LLMs in complex multi-stage security scenarios
 
-```yaml
-domains:
-  - Multimodal Large Language Models (MLLMs)
-  - Diffusion Models & Generative AI
-  - Computer Vision & Image Processing
-  - Remote Sensing & Earth Observation
-  
-tools_i_love:
-  - PyTorch & TensorFlow
-  - Stable Diffusion & DALL·E
-  - Hugging Face Transformers
-  - OpenCV & PIL
-  
-current_status: "Building intelligent systems that bridge vision and language 🌉"
-```
+### MMSearch-R1
 
----
+- Developed a GRPO-based training framework for multimodal retrieval-augmented reasoning
+- Trained models to decide when search is necessary instead of retrieving by default
+- Reduced unnecessary retrieval while preserving answer quality on knowledge-intensive tasks
 
-### 🛠️ Tech Arsenal
+### MIKRAG
+
+- Designed a multimodal PDF retrieval system with query intent decomposition and adaptive modal fusion
+- Improved retrieval quality with ColQwen2.5, BGE embeddings, Vespa indexing, and binary quantization
+- Extended the system toward multi-intent branching and dynamic search space expansion
+
+## Publications
+
+- Active Learning-Driven Ensemble Framework for Efficient and Robust Reliability Analysis in Geotechnical Engineering (2025)
+- FED-FSTQ: Fisher-Guided Token Quantization for Communication-Efficient Federated Fine-Tuning of LLMs on Edge Devices (submitted, 2026)
+- MIKRAG: A Knowledge-Enhanced Multi-Intent Retrieval Framework with Adaptive Multimodal Fusion (under review, 2025)
+
+## Year Progress
+
+<!-- YEAR_PROGRESS_START -->
+{ █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 17.62%
+Updated: Fri, 06 Mar 2026 07:55:07 GMT
+<!-- YEAR_PROGRESS_END -->
+
+## Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/michaelgentsJason/michaelgentsJason/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/michaelgentsJason/michaelgentsJason/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/michaelgentsJason/michaelgentsJason/output/github-contribution-grid-snake.svg">
+</picture>
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,java,js,react" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,jupyter,mysql,mongodb" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=michaelgentsJason&theme=github_dark" alt="Profile details" />
+  <br /><br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=michaelgentsJason&theme=github_dark" alt="Top languages by repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=michaelgentsJason&theme=github_dark" alt="Top languages by commit" />
 </p>
-
-<details>
-<summary>📦 More Tools & Frameworks</summary>
-<br/>
-
-**AI/ML:**  
-`PyTorch` `TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Hugging Face` `OpenCV` `YOLO` `Stable Diffusion`
-
-**Development:**  
-`Python` `C++` `JavaScript` `TypeScript` `Java` `HTML/CSS`
-
-**Tools:**  
-`Git` `Docker` `Linux` `Jupyter` `VS Code` `Vim` `Bash` `LaTeX`
-
-**Databases:**  
-`MySQL` `MongoDB` `PostgreSQL` `Redis`
-
-</details>
-
----
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=michaelgentsJason&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=8b5cf6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaelgentsJason&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=michaelgentsJason&theme=tokyonight&hide_border=true&background=0d1117&stroke=6366f1&ring=8b5cf6&fire=ec4899&currStreakLabel=8b5cf6" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=michaelgentsJason&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=8b5cf6&point=ffffff&area=true" width="95%"/>
-
-</div>
-
----
-
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=michaelgentsJason&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</p>
-
----
-
-### 🌟 Pinned Repositories
-
-<div align="center">
-
-<a href="https://github.com/michaelgentsJason/项目1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelgentsJason&repo=项目1&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-<a href="https://github.com/michaelgentsJason/项目2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=michaelgentsJason&repo=项目2&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</a>
-
-</div>
-
----
-
-### 📫 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/michaelgentsJason"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:jxlau1017@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://space.bilibili.com/你的UID"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white"/></a>
-  <a href="你的主页"><img src="https://img.shields.io/badge/Homepage-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
-  <a href="https://scholar.google.com/你的链接"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-</p>
-
----
-
-<div align="center">
-
-### 💬 Random Dev Wisdom
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it." />
-
----
-
