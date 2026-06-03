@@ -59,8 +59,8 @@ I am Jiashen Liu, a researcher and engineer working on multimodal AI systems for
 ## Year Progress
 
 <!-- YEAR_PROGRESS_START -->
-{ ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 41.88%
-Updated: Tue, 02 Jun 2026 20:52:46 GMT
+{ ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 41.97%
+Updated: Wed, 03 Jun 2026 04:25:45 GMT
 <!-- YEAR_PROGRESS_END -->
 
 ## Contribution Graph
