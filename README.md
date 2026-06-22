@@ -21,6 +21,12 @@
   <img src="https://img.shields.io/badge/Focus-Multimodal%20AI-1F8B4C" alt="Focus badge" />
 </p>
 
+## Featured Projects
+
+| Project | Description |
+|----------|------------|
+| [SynUW-VIBench](https://github.com/xxx/SynUW-VIBench) | Synthetic Underwater VIO Benchmark |
+| [Project 2](https://github.com/xxx/project2) | Multimodal RAG System |
 
 ## Year Progress
 
