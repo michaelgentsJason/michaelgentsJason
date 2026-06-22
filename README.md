@@ -26,7 +26,7 @@
 | Project | Description |
 |----------|------------|
 | [SynUW-VIBench](https://github.com/xxx/SynUW-VIBench) | Synthetic Underwater VIO Benchmark |
-| [Project 2](https://github.com/xxx/project2) | Multimodal RAG System |
+| [Awesome-Memory-in-VLM](https://github.com/Xzcv-hub/Awesome-Memory-in-VLM) | Awesome-Memory-in-VLM |
 
 ## Year Progress
 
