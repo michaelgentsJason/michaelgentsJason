@@ -21,40 +21,6 @@
   <img src="https://img.shields.io/badge/Focus-Multimodal%20AI-1F8B4C" alt="Focus badge" />
 </p>
 
-## About Me
-
-I am Jiashen Liu, a researcher and engineer working on multimodal AI systems for knowledge-intensive and high-stakes domains.
-
-- MSc in Cyber Security Engineering with Distinction, University of Warwick
-- Bachelor of Management in Information Management and Information Systems, Nanjing Agricultural University
-- Research interests: multimodal reasoning, retrieval-augmented generation, structured agents, multimodal document understanding, and AI for cybersecurity
-- Interested in building systems that combine vision, language, and structured knowledge for reliable multi-step decision making
-
-## Selected Work
-
-### WebPentestRAG
-
-- Built a RAG-enhanced framework for automated web application penetration testing
-- Combined structured reasoning, dynamic knowledge retrieval, and workflow orchestration
-- Improved task performance over baseline LLMs in complex multi-stage security scenarios
-
-### MMSearch-R1
-
-- Developed a GRPO-based training framework for multimodal retrieval-augmented reasoning
-- Trained models to decide when search is necessary instead of retrieving by default
-- Reduced unnecessary retrieval while preserving answer quality on knowledge-intensive tasks
-
-### MIKRAG
-
-- Designed a multimodal PDF retrieval system with query intent decomposition and adaptive modal fusion
-- Improved retrieval quality with ColQwen2.5, BGE embeddings, Vespa indexing, and binary quantization
-- Extended the system toward multi-intent branching and dynamic search space expansion
-
-## Publications
-
-- Active Learning-Driven Ensemble Framework for Efficient and Robust Reliability Analysis in Geotechnical Engineering (2026)
-- FED-FSTQ: Fisher-Guided Token Quantization for Communication-Efficient Federated Fine-Tuning of LLMs on Edge Devices (submitted, 2026)
-- MIKRAG: A Knowledge-Enhanced Multi-Intent Retrieval Framework with Adaptive Multimodal Fusion (under review, 2025)
 
 ## Year Progress
 
