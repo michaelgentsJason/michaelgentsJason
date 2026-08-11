@@ -27,7 +27,7 @@
 |----------|------------|
 | [SynUW-VIBench](https://github.com/xxx/SynUW-VIBench) | Synthetic Underwater VIO Benchmark |
 | [Awesome-Memory-in-VLM](https://github.com/Xzcv-hub/Awesome-Memory-in-VLM) | Awesome-Memory-in-VLM |
-
+| [Awesome-LLM-Agent-Harness](https://github.com/Xzcv-hub/Awesome-LLM-Agent-Harness) | Awesome-LLM-Agent-Harness |
 ## Year Progress
 
 <!-- YEAR_PROGRESS_START -->
