@@ -21,13 +21,7 @@
   <img src="https://img.shields.io/badge/Focus-Multimodal%20AI-1F8B4C" alt="Focus badge" />
 </p>
 
-## Featured Projects
 
-| Project | Description |
-|----------|------------|
-| [SynUW-VIBench](https://github.com/xxx/SynUW-VIBench) | Synthetic Underwater VIO Benchmark |
-| [Awesome-Memory-in-VLM](https://github.com/Xzcv-hub/Awesome-Memory-in-VLM) | Awesome-Memory-in-VLM |
-| [Awesome-LLM-Agent-Harness](https://github.com/Xzcv-hub/Awesome-LLM-Agent-Harness) | Awesome-LLM-Agent-Harness |
 ## Year Progress
 
 <!-- YEAR_PROGRESS_START -->
